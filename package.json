@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@dorian-eydoux/pronote-api": "^2.3.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
